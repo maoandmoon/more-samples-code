@@ -1,0 +1,11 @@
+{
+  "unique_app_name_group": "app_programmatic",
+  "version": "0.0.1",
+  "app_name": "Programmatic",
+  "app_text": "Programmatic",
+  "app_img": "logo.png",
+  "app_url": "programmatic",
+  "conf": {
+    "setting": true
+  }
+}

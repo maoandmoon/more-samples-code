@@ -1,0 +1,8 @@
+{
+  "unique_app_name_group": "app_word_stat_yandex",
+  "version": "0.1.0",
+  "app_name": "Yandex Word Stat",
+  "app_text": "Get Yandex Word Stat",
+  "app_img": "logo.png",
+  "app_url": "word_stat"
+}
